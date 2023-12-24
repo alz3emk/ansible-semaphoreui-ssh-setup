@@ -1,6 +1,4 @@
-# =================================
-# ANSIBLE SEMAPHORE UI - SSH SETUP
-# =================================
+### ANSIBLE SEMAPHORE UI - SSH SETUP 
 
 ## Ansible SEMAPHORE Machine / Docker Container of SEMAPHORE UI
 
@@ -50,3 +48,5 @@ mkdir /home/userYouCreated/.ssh
 - Ensure that SSH connectivity is established from the machine managing through Ansible SEMAPHORE GUI to the desired remote machine. This step is crucial for adding the remote host's fingerprint to the list.
 
 - In case Docker is used, access the terminal of the SEMAPHORE container, establish SSH connection to the remote host, and the fingerprint will be automatically added.
+
+## Credit: Corr Cloud @ Youtube
