@@ -1,6 +1,6 @@
-### ANSIBLE SEMAPHORE UI - SSH SETUP 
+### ANSIBLE SEMAPHORE UI - SSH-KEY SETUP 
 
-## Ansible SEMAPHORE Machine / Docker Container of SEMAPHORE UI
+## ANSIBLE SEMAPHORE Machine / Docker Container of SEMAPHORE UI
 
 To establish SSH connectivity for managing remote servers through Ansible SEMAPHORE GUI, follow these steps:
 
