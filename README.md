@@ -11,7 +11,7 @@ On the controlling server or Docker container of SEMAPHORE UI:
 1. Run the command `sudo ssh-keygen -t rsa` to generate SSH keys.
 2. Name the keys arbitrarily, e.g., YourKeyNameCanBeAnything.
 3. This process will generate both public and private keys.
-4. Retrieve the public key by executing `cat YourKeyName` and then copy it.
+4. Retrieve the public key by executing `cat YourKeyName` and then copy it. /home/yourUser/.ssh/ || /Users/yourUser/.ssh
 
 ### Setting Up Remote Server
 
